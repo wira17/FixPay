@@ -6,6 +6,9 @@ FixPay adalah aplikasi berbasis web yang membantu Anda mengelola tagihan, memant
 
 ---
 
+<img width="1440" height="818" alt="Screen Shot 2026-03-23 at 21 27 14" src="https://github.com/user-attachments/assets/a673bb67-cd6f-4655-81f3-ba0687f0e7f1" />
+
+
 ## 🚀 Fitur Utama
 
 ✨ **Buat invoice profesional dalam hitungan detik**

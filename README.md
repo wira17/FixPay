@@ -1,0 +1,72 @@
+# 💳 FixPay
+
+**Invoice profesional, pembayaran lebih cepat**
+
+FixPay adalah aplikasi berbasis web yang membantu Anda mengelola tagihan, memantau pembayaran, dan menerima bukti transfer dari klien — semuanya dalam satu platform yang elegan dan mudah digunakan.
+
+---
+
+## 🚀 Fitur Utama
+
+✨ **Buat invoice profesional dalam hitungan detik**
+Buat dan kirim invoice dengan tampilan modern tanpa ribet.
+
+📥 **Verifikasi bukti transfer langsung dari dashboard**
+Kelola dan validasi pembayaran klien dengan cepat dan terpusat.
+
+🔔 **Notifikasi real-time saat pembayaran masuk**
+Dapatkan pemberitahuan langsung setiap ada pembayaran baru.
+
+📊 **Laporan & statistik pendapatan otomatis**
+Pantau performa keuangan dengan laporan yang terstruktur dan informatif.
+
+---
+
+## 🖥️ Teknologi yang Digunakan
+
+* PHP Native
+* MySQL Database
+* Bootstrap / Tailwind (UI)
+* JavaScript
+
+---
+
+## 📦 Instalasi
+
+1. Clone repository:
+
+```bash
+git clone https://github.com/wira17/FixPay.git
+```
+
+2. Pindahkan ke folder XAMPP:
+
+```
+htdocs/fixpay
+```
+
+3. Import database ke MySQL
+
+4. Jalankan di browser:
+
+```
+http://localhost/fixpay
+```
+
+---
+
+## 🔐 Fitur yang Akan Datang
+
+* Integrasi Payment Gateway
+* Export PDF Invoice
+* Multi user / role management
+* Reminder otomatis ke klien
+
+---
+
+## 👨‍💻 Developer
+
+Dikembangkan oleh **Wira Muhammad**
+
+---
+
